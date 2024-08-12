@@ -7,7 +7,8 @@ Build a simple chatbot that responds to user inputs based on predefined rules. U
 ## Get the Solution
 
 For the complete solution and more information, connect with us on WhatsApp:
-[![WhatsApp](https://img.shields.io/badge/Contact-WhatsApp-brightgreen)](https://wa.me/+254794689731)
+
+[![WhatsApp](https://upload.wikimedia.org/wikipedia/commons/6/6b/WhatsApp.svg)](https://wa.me/+254794689731) [Contact +254794689731](https://wa.me/+254794689731)
 
 ## Support Us
 
