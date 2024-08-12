@@ -10,7 +10,7 @@ For the complete solution and more information, connect with us on WhatsApp:
 
 <a href="https://wa.me/+254794689731">
   <img src="https://upload.wikimedia.org/wikipedia/commons/6/6b/WhatsApp.svg" alt="WhatsApp" width="24" height="24"/>
-</a> [Contact +254794689731](https://wa.me/+254794689731)
+</a>
 
 ## Support Us
 
